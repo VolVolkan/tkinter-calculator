@@ -1,4 +1,4 @@
-# tkinter-calculator
+# tkinter-calculator(noen) 
 this calculator can make decimal hexadecimal and binary transactions with python language based backend but not finished just im bored and im loading this to here  
 if you using windows the interface can looks diferent in your screen this is a tkinter issue 
 working python based i mean 2**3 = 2^3 or 2.2//2 = 1 
